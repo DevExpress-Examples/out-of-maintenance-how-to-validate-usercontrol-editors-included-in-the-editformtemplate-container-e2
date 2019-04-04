@@ -2,10 +2,10 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/TestGridViewSite81/Default.aspx) (VB: [Default.aspx](./VB/TestGridViewSite81/Default.aspx))
-* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx](./VB/TestGridViewSite81/Default.aspx))
+* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
 * [MasterPage.master.cs](./CS/TestGridViewSite81/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/TestGridViewSite81/MasterPage.master.vb))
 * [WebUserControl.ascx](./CS/TestGridViewSite81/WebUserControl.ascx) (VB: [WebUserControl.ascx](./VB/TestGridViewSite81/WebUserControl.ascx))
-* [WebUserControl.ascx.cs](./CS/TestGridViewSite81/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx](./VB/TestGridViewSite81/WebUserControl.ascx))
+* [WebUserControl.ascx.cs](./CS/TestGridViewSite81/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx.vb](./VB/TestGridViewSite81/WebUserControl.ascx.vb))
 <!-- default file list end -->
 # How to validate UserControl editors included in the EditFormTemplate Container
 
