@@ -8,6 +8,9 @@
 * [WebUserControl.ascx.cs](./CS/TestGridViewSite81/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx.vb](./VB/TestGridViewSite81/WebUserControl.ascx.vb))
 <!-- default file list end -->
 # How to validate UserControl editors included in the EditFormTemplate Container
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e245/)**
+<!-- run online end -->
 
 
 <p>To enable data validation of UserControl Editors, use the following approach:</p><p>1)  set the ValidationSettings.ValidationGroup property of all editors in this UserControl to the same value;<br />
